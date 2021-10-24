@@ -2,8 +2,8 @@
   Duck Bomb
 </h1>
 
-![license](https://img.shields.io/github/license/wykke/duck-bomb)
-![issues](https://img.shields.io/github/issues/wykke/duck-bomb)
+![license](https://img.shields.io/github/license/AlexJPereira/duck-bomb)
+![issues](https://img.shields.io/github/issues/AlexJPereira/duck-bomb)
 
 <img src="./projeto/logo.png" alt="drawing" width="200" align="right"/>
 
@@ -32,7 +32,7 @@ Esse projeto se trata de um jogo no estilo dos jogos do Bomberman com a temátic
 <img src="./projeto/playing.png"/>
 
 # Participantes
-<a href="https://github.com/wykke"><img src="https://avatars3.githubusercontent.com/u/38235118?s=460&v=4" alt="drawing" width="40" align="middle"/></a>
+<a href="https://github.com/AlexJPereira"><img src="https://avatars.githubusercontent.com/u/38235118?v=4" alt="drawing" width="40" align="middle"/></a>
 Alex Junior Pereira
 
 <a href="https://github.com/leonardochd"><img src="https://avatars3.githubusercontent.com/u/38632342?s=460&v=4" alt="drawing" width="40" align="middle"/></a>
